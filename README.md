@@ -11,6 +11,6 @@
 課程筆記區：
 
 作業連結區：
-<a href="https://youtu.be/o22tvGqCz_A" target="_blank">聽歌去</a>
+<a href="https://github.com/DADDYDADO/plrepo/blob/main/%23HW01.ipynb" target="_blank">HW01</a>
 
 專題連結區：
