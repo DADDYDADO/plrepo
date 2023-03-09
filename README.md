@@ -11,7 +11,6 @@
 課程筆記區：
 
 作業連結區：
-<p></p>
-<a href="https://github.com/DADDYDADO/plrepo/blob/main/%23HW01.ipynb" target="_blank">HW01</a>
+<p></p><a href="https://github.com/DADDYDADO/plrepo/blob/main/%23HW01.ipynb" target="_blank">HW01</a>
 
 專題連結區：
