@@ -13,6 +13,6 @@
 作業連結區：
 <p><a href="https://github.com/DADDYDADO/plrepo/blob/main/%23HW01.ipynb" target="_blank">HW01</a></p>
 <p><a href="https://github.com/DADDYDADO/plrepo/blob/main/HW02.ipynb" target="_blank">HW02</a></p>
-<p><a href="https://github.com/DADDYDADO/plrepo/blob/main/03%20pratice.ipynb" target="_blank">03practice</a></p>
+<p><a href="https://github.com/DADDYDADO/plrepo/blob/main/03%20pratice.ipynb" target="_blank">Practice03</a></p>
 
 專題連結區：
