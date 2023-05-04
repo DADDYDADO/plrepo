@@ -10,7 +10,7 @@
 
 課程筆記區：
 <p><a href="https://github.com/DADDYDADO/plrepo/blob/main/03%20pratice.ipynb" target="_blank">Practice01</a></p>
-<p><a href="https://github.com/DADDYDADO/plrepo/blob/main/haha.ipynb" target="_blank">Practice01</a></p>
+<p><a href="https://github.com/DADDYDADO/plrepo/blob/main/haha.ipynb" target="_blank">Practice02</a></p>
 
 作業連結區：
 <p><a href="https://github.com/DADDYDADO/plrepo/blob/main/%23HW01.ipynb" target="_blank">HW01</a></p>
