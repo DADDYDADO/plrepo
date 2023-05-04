@@ -16,3 +16,4 @@
 <p><a href="https://github.com/DADDYDADO/plrepo/blob/main/03%20pratice.ipynb" target="_blank">Practice03</a></p>
 
 專題連結區：
+<p><a href="https://docs.google.com/presentation/d/114dnHpPdz7DAhRkNZ8LUskUZGcrh9dKK-yjxK3hZEvM/edit?usp=sharing" target="_blank">健身小達人</a></p>
