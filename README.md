@@ -16,7 +16,7 @@
 <p><a href="https://github.com/DADDYDADO/plrepo/blob/main/%23HW01.ipynb" target="_blank">HW01</a></p>
 <p><a href="https://github.com/DADDYDADO/plrepo/blob/main/HW02.ipynb" target="_blank">HW02</a></p>
 <p><a href="https://github.com/DADDYDADO/plrepo/blob/main/HW3.ipynb" target="_blank">HW03</a></p>
-<p><a href="https://github.com/DADDYDADO/plrepo/blob/main/HW4.ipynb" target="_blank">HW03</a></p>
+<p><a href="https://github.com/DADDYDADO/plrepo/blob/main/HW4.ipynb" target="_blank">HW04</a></p>
 
 專題連結區：
 <p><a href="https://docs.google.com/presentation/d/114dnHpPdz7DAhRkNZ8LUskUZGcrh9dKK-yjxK3hZEvM/edit?usp=sharing" target="_blank">健身小達人</a></p>
